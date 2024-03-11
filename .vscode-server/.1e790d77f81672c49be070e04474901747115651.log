@@ -1,0 +1,34 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:40641 (IPv4)
+Extension host agent listening on 40641
+
+[14:09:36] 
+
+
+
+
+[14:09:36] Extension host agent started.
+[14:09:36] Started initializing default profile extensions in extensions installation folder. file:///home/joe/.vscode-server/extensions
+[14:09:36] Completed initializing default profile extensions in extensions installation folder. file:///home/joe/.vscode-server/extensions
+[14:09:36] [127.0.0.1][8e733bd2][ManagementConnection] New connection established.
+[14:09:36] [127.0.0.1][74e246a3][ExtensionHostConnection] New connection established.
+[14:09:36] Installing extensions...
+[14:09:37] [127.0.0.1][74e246a3][ExtensionHostConnection] <18290> Launched Extension Host Process.
+[14:09:37] Installing extension 'ms-ceintl.vscode-language-pack-zh-hans'...
+[14:09:38] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+[14:09:38] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[14:09:42] Extension signature is verified: ms-ceintl.vscode-language-pack-zh-hans
+[14:09:42] Extracted extension to file:///home/joe/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.87.2024030609: ms-ceintl.vscode-language-pack-zh-hans
+[14:09:42] Renamed to /home/joe/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.87.2024030609
+[14:09:42] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hans
+[14:09:42] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+[14:09:42] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[14:09:42] Extension 'ms-ceintl.vscode-language-pack-zh-hans' v1.87.2024030609 was successfully installed.
+New EH opened, aborting shutdown
+[14:14:36] New EH opened, aborting shutdown
